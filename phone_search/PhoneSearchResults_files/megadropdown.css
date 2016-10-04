@@ -1,0 +1,1221 @@
+body #s4-topheader2 {
+	background-image: none; background-color: rgb(33, 52, 74);
+}
+.mdd-menubar {
+	display: inline-block;
+}
+.mdd-menu {
+	display: inline-block;
+}
+.mdd-menu {
+	margin: 0px;
+}
+.mdd-menuItem {
+	border: 1px solid transparent; padding-right: 25px; font-size: 1em; display: inline-block; position: relative;
+}
+.mdd-submenuItem {
+	border: 1px solid transparent; padding-right: 25px; font-size: 1em; display: inline-block; position: relative;
+}
+.mdd-menuItem .navb {
+	display: none;
+}
+.mdd-menuTitle {
+	-ms-user-select: none; -moz-user-select: none; -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; -khtml-user-select: none;
+}
+.mdd-menuTitle .mdd-menuLink {
+	-ms-user-select: none; -moz-user-select: none; -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; -khtml-user-select: none;
+}
+.mdd-submenubar {
+	position: absolute;
+}
+.mdd-menuLabel {
+	padding-right: 4px; padding-left: 4px;
+}
+.mdd-menubar .mdd-menuItemInEdit {
+	display: inline-block;
+}
+.mdd-menubar .ms-navedit-addNewLink {
+	margin-top: 0px;
+}
+.mdd-listheading {
+	overflow: hidden; float: left;
+}
+.mdd-drop {
+	padding: 0px; border: 1px solid rgb(209, 209, 209); left: 0px; top: 26px; display: none; position: absolute; z-index: 101; box-shadow: 0px 1px 15px rgba(0,0,0,0.4); background-color: rgb(255, 255, 255);
+}
+.mdd-drop div {
+	white-space: normal;
+}
+.nodrop .mdd-drop {
+	display: block; position: inherit;
+}
+.mdd-drop ul {
+	padding-left: 5px; list-style-type: none;
+}
+.mdd-submenubar {
+	display: none;
+}
+.current a.mdd-menuLink:link {
+	color: rgb(0, 114, 198); font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif; font-size: 1em; font-weight: normal;
+}
+.current a.mdd-menuLink:visited {
+	color: rgb(0, 114, 198); font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif; font-size: 1em; font-weight: normal;
+}
+.current a.mdd-menuLink:active {
+	color: rgb(0, 114, 198); font-size: 1em; font-weight: normal;
+}
+.current a.mdd-menuLink:hover {
+	color: rgb(0, 114, 198); text-decoration: none;
+}
+a.mdd-linkItem:link {
+	color: rgb(102, 102, 119); font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif; font-size: 1em; font-weight: normal;
+}
+a.mdd-menuLink:link {
+	color: rgb(102, 102, 119); font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif; font-size: 1em; font-weight: normal;
+}
+span.mdd-headingTitle {
+	color: rgb(102, 102, 119); font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif; font-size: 1em; font-weight: normal;
+}
+a.mdd-linkItem:visited {
+	color: rgb(102, 102, 102); font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif; font-size: 1em; font-weight: normal;
+}
+a.mdd-menuLink:visited {
+	color: rgb(102, 102, 102); font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif; font-size: 1em; font-weight: normal;
+}
+a.mdd-linkItem:active {
+	color: rgb(0, 114, 198); font-size: 1em; font-weight: normal;
+}
+a.mdd-menuLink:active {
+	color: rgb(0, 114, 198); font-size: 1em; font-weight: normal;
+}
+a.mdd-linkItem:hover {
+	color: rgb(0, 114, 198); text-decoration: none;
+}
+a.mdd-menuLink:hover {
+	color: rgb(0, 114, 198); text-decoration: none;
+}
+h1.mdd-headingItem {
+	border: 1px solid transparent; color: rgb(102, 102, 102); font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif; font-size: 1.1em; font-weight: 600; text-decoration: none;
+}
+h1.mdd-headingItem a.mdd-linkItem:link {
+	color: rgb(102, 102, 102); font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif; font-size: 1.1em; font-weight: 600; text-decoration: none;
+}
+h1.mdd-headingItem a.mdd-linkItem:active {
+	color: rgb(102, 102, 102); font-size: 1.1em; font-weight: 600; text-decoration: none;
+}
+h1.mdd-headingItem a.mdd-linkItem:hover {
+	color: rgb(0, 114, 198); text-decoration: none;
+}
+h1.mdd-headingItem a.mdd-linkItem:visited {
+	color: rgb(102, 102, 102); font-size: 1.1em; font-weight: 600; text-decoration: none;
+}
+h1 {
+	text-decoration: none;
+}
+h1.mdd-subHeadingItem {
+	border: 1px solid transparent; color: rgb(102, 102, 102); font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif; font-size: 1.1em; font-weight: 600; text-decoration: none;
+}
+h1.mdd-subHeadingItem a.mdd-linkItem:link {
+	color: rgb(102, 102, 102); font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif; font-size: 1.1em; font-weight: 600; text-decoration: none;
+}
+h1.mdd-subHeadingItem a.mdd-linkItem:active {
+	color: rgb(102, 102, 102); font-size: 1.1em; font-weight: 600; text-decoration: none;
+}
+h1.mdd-subHeadingItem a.mdd-linkItem:hover {
+	color: rgb(0, 114, 198); text-decoration: none;
+}
+h1.mdd-subHeadingItem a.mdd-linkItem:visited {
+	color: rgb(102, 102, 102); font-size: 1.1em; font-weight: 600; text-decoration: none;
+}
+.mdd-section {
+	width: 180px; height: 180px; float: left; white-space: normal; background-color: transparent;
+}
+.mdd-section ul {
+	list-style-position: inside;
+}
+.mdd-heading .ms-core-listMenu-root li {
+	display: block;
+}
+.mdd-searchcontrol h1 {
+	display: block;
+}
+.ms-core-sideNavBox-removeLeftMargin a {
+	display: block;
+}
+.nested.mdd-section {
+	width: 100%; height: 100%; float: none;
+}
+.children.mdd-section {
+	width: 100%; height: auto;
+}
+.sub.mdd-section {
+	width: 100%; height: auto;
+}
+.mdd-contentsearch {
+	color: rgb(102, 102, 102); font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif; font-size: 1em;
+}
+.mdd-contentsearch .mdd-section {
+	width: 100%; min-width: 180px;
+}
+.mdd-contentsearch .item-content {
+	clear: both;
+}
+.mdd-contentsearch .item-docicon {
+	padding: 2px 0px;
+}
+.mdd-contentsearch .item-content .itemicon.item-image img {
+	padding-right: 10px; float: left;
+}
+.wait.mdd-contentsearch {
+	background-position: center; background-image: url("/_layouts/15/images/loadingcirclests16.gif"); background-repeat: no-repeat; background-size: 25px 25px;
+}
+.wait.de-container {
+	background-position: center; background-image: url("/_layouts/15/images/loadingcirclests16.gif"); background-repeat: no-repeat; background-size: 25px 25px;
+}
+.wait.qb-preview-border {
+	background-position: center; background-image: url("/_layouts/15/images/loadingcirclests16.gif"); background-repeat: no-repeat; background-size: 25px 25px;
+}
+.mdd-searchcontrol {
+	width: 318px; float: left; display: inline-block;
+}
+.mdd-searchcontrol-inner {
+	background: no-repeat 0px 0px; padding: 0px; width: 318px;
+}
+.mdd-searchcontrol-inner input {
+	border: 0px currentColor; width: 290px; color: rgb(201, 202, 197); font-style: italic; background-color: transparent;
+}
+.mdd-searchcontrol-inner input:focus {
+	color: rgb(55, 106, 172);
+}
+.mdd-image img {
+	width: 100%; height: 100%;
+}
+.mdd-searchbox {
+	display: inline-block;
+}
+.mdd-searchbox-go {
+	background: url("/_layouts/15/images/searchresultui.png?rev=23") no-repeat -37px -57px;
+}
+.mdd-callout {
+	width: auto; display: inline-block;
+}
+.mdd-callout h3 {
+	font-weight: 200;
+}
+.co-item {
+	border-radius: 8px; padding-top: 10px; clear: both;
+}
+.co-image {
+	padding: 3px 7px 3px 3px; float: left;
+}
+.co-image img {
+	border: 0px currentColor;
+}
+img.mdd-image {
+	border: 0px currentColor;
+}
+.co-content {
+	width: 200px; padding-top: 2px; float: left; white-space: normal;
+}
+.co-content a {
+	background: none !important;
+}
+.co-content span.ms-imnSpan.ms-noWrap {
+	padding-left: 5px;
+}
+.co-content li span.ms-imnSpan.ms-noWrap {
+	padding-left: 0px;
+}
+.co-item a:link {
+	color: rgb(72, 74, 83);
+}
+.co-item a:visited {
+	color: rgb(72, 74, 83);
+}
+.co-item h3 {
+	font-family: arial, sans-serif; font-size: 11px;
+}
+.co-content h3 {
+	font-family: arial, sans-serif; font-size: 11px;
+}
+.sp-pages {
+	width: 350px;
+}
+.sp-pages ul {
+	width: 350px;
+}
+.sp-pages ul a {
+	padding-bottom: 2px;
+}
+.mdd-menubar.mdd-vert {
+	display: block;
+}
+.mdd-vert .mdd-menu {
+	display: block;
+}
+.mdd-menubar.accordion {
+	display: block;
+}
+.accordion .mdd-menu {
+	display: block;
+}
+.mdd-vert .mdd-menuItem {
+	padding: 0px; display: block;
+}
+.accordion .mdd-menuItem {
+	padding: 0px; display: block;
+}
+.mdd-vert .mdd-menuItem .mdd-menuTitle {
+	padding: 5px 20px; display: block;
+}
+.mdd-clear {
+	clear: both;
+}
+.accordion {
+	height: 100%; padding-bottom: 15px;
+}
+.accordion .mdd-menuItem {
+	background: url("/_layouts/15/archetonomy/mdd/images/ql-collapsed.png") no-repeat 3px 12px rgba(239, 239, 239, 0.78); padding: 5px 0px; border: 0px currentColor; overflow: hidden; margin-bottom: 2px; float: none;
+}
+.accordion .mdd-menuItem:hover {
+	cursor: pointer; background-color: rgba(205, 230, 247, 0.5);
+}
+.accordion .accopen.mdd-menuItem {
+	background: url("/_layouts/15/archetonomy/mdd/images/ql-expanded.png") no-repeat 3px 14px rgba(205, 230, 247, 0.5); padding-bottom: 0px;
+}
+.accordion .mdd-menuItemEdit {
+	background-image: none; background-color: transparent;
+}
+.accordion .mdd-menuItemEdit:hover {
+	cursor: auto; background-color: transparent;
+}
+.accordion .mdd-menuTitle {
+	padding-left: 20px;
+}
+.accordion .mdd-drop {
+	border: 0px transparent; top: 5px; width: 180px; overflow: hidden; padding-top: 0px; padding-left: 20px; margin-bottom: 0px; float: inherit; display: none; position: relative; max-height: none; box-shadow: none;
+}
+.accordion .mdd-menuItem > .de-container {
+	border: 0px transparent; top: 5px; width: 180px; overflow: hidden; padding-top: 0px; padding-left: 20px; margin-bottom: 0px; float: inherit; display: none; position: relative; max-height: none; box-shadow: none;
+}
+.accordion .mdd-menuItem > .de-container {
+	padding-left: 0px;
+}
+.accordion .de-container .mdd-drop {
+	width: 100%; height: 100%; min-width: inherit;
+}
+.accordion .mdd-menuItemInEdit input {
+	display: block;
+}
+.accordion .mdd-listheading {
+	float: none;
+}
+.accordion .mdd-heading {
+	float: none;
+}
+.accordion .mdd-section {
+	float: none;
+}
+.accordion .mdd-section {
+	height: 120px;
+}
+.accordion .mdd-menuLabel {
+	color: rgb(33, 52, 74);
+}
+.accordion .mdd-menuLabel a:link {
+	color: rgb(33, 52, 74);
+}
+.accordion .mdd-menuLabel a:visited {
+	color: rgb(33, 52, 74);
+}
+.accordion .accopen .tab-content .mdd-menuLabel {
+	color: rgb(33, 52, 74);
+}
+.accordion .accopen .tab-content a:link {
+	color: rgb(33, 52, 74);
+}
+.accordion .accopen .tab-content a:visited {
+	color: rgb(33, 52, 74);
+}
+.accordion .tab-content {
+	padding-left: 10px;
+}
+.accordion .mdd-drop .c {
+	max-height: none;
+}
+.accordion .content-area {
+	overflow: hidden;
+}
+.accordion .mdd-heading {
+	height: 100%; float: inherit;
+}
+.accordion a:focus {
+	
+}
+.sub-mdd {
+	display: none;
+}
+h1.mddhide {
+	display: none;
+}
+.accordion .mdd-drop .t {
+	display: none;
+}
+.accordion .mdd-drop .b {
+	display: none;
+}
+.panel-vert {
+	height: 100%;
+}
+.panel-items {
+	border: 1px solid rgb(170, 192, 210); width: 200px; height: 100%;
+}
+.panel-vert .panel-content {
+	top: 1px; height: 100%;
+}
+.panel-vert .panel-item {
+	height: auto;
+}
+.panel-horiz {
+	width: 100%;
+}
+.panel-horiz ul {
+	position: relative;
+}
+.panel-horiz .panel-content {
+	left: 0px; width: 100%;
+}
+.panel-horiz .panel-item {
+	height: 150px;
+}
+.panel-content {
+	height: 150px; display: none; position: absolute; background-color: rgb(255, 255, 255);
+}
+.mdd-listpanel ul {
+	padding-left: 0px;
+}
+.mdd-listpanel .active {
+	display: block;
+}
+.panel-items {
+	box-sizing: content-box; background-color: rgb(224, 234, 243);
+}
+.panel-items .panel-content {
+	border-left-color: rgb(170, 192, 210); border-left-width: 1px; border-left-style: solid; display: none;
+}
+.panel-item .panel-title {
+	border: 0px currentColor; line-height: 20px; padding-left: 10px; font-weight: normal; display: block; background-color: transparent;
+}
+.active.panel-item .panel-title {
+	cursor: pointer; background-color: rgb(37, 80, 148);
+}
+.panel-link {
+	color: rgb(102, 102, 102); text-decoration: none;
+}
+.panel-link:visited {
+	color: rgb(102, 102, 102); text-decoration: none;
+}
+.active.panel-item .panel-link {
+	color: rgb(255, 255, 255); text-decoration: none;
+}
+.ms-core-deltaSuiteLinks div.mdd-menubar ul {
+	padding-left: 0px;
+}
+.ms-core-deltaSuiteLinks div.mdd-menubar {
+	text-align: left;
+}
+.ms-core-deltaSuiteLinks img {
+	text-align: left;
+}
+.ms-core-deltaSuiteLinks .mdd-menu .mdd-menuItem {
+	text-align: left;
+}
+.prop-button-borders {
+	text-align: left;
+}
+.ms-core-deltaSuiteLinks .mdd-menu li.mdd-menuItem {
+	line-height: 30px; padding-right: 12px; padding-left: 12px;
+}
+.ms-core-deltaSuiteLinks .mdd-menuItem-hover {
+	background-color: rgb(76, 156, 215);
+}
+.ms-core-deltaSuiteLinks a.mdd-menuLink {
+	color: rgb(255, 255, 255);
+}
+.ms-core-deltaSuiteLinks a.mdd-menuLink:hover {
+	color: rgb(255, 255, 255);
+}
+.ms-core-deltaSuiteLinks a.mdd-menuLink:visited {
+	color: rgb(255, 255, 255);
+}
+.ms-core-deltaSuiteLinks a.mdd-menuLink:link {
+	color: rgb(255, 255, 255);
+}
+.ms-core-deltaSuiteLinks .mdd-section li {
+	color: rgb(102, 102, 119); line-height: normal;
+}
+.ms-core-deltaSuiteLinks .mdd-section h1 {
+	color: rgb(102, 102, 119); line-height: normal;
+}
+.ms-core-deltaSuiteLinks .ms-navedit-editLinksText > span > .ms-metadata {
+	color: rgb(0, 0, 0);
+}
+.ms-core-deltaSuiteLinks .ms-core-listMenuEdit > tr > .ms-navedit-linkCell > .ms-core-listMenu-item {
+	color: rgb(0, 0, 0);
+}
+.ms-core-deltaSuiteLinks .ms-navedit-editLinksText:hover > span > .ms-metadata {
+	color: rgb(255, 255, 255);
+}
+.ms-core-deltaSuiteLinks .ms-core-listMenuEdit > tr > .ms-navedit-linkCell > .ms-core-listMenu-item {
+	color: rgb(255, 255, 255);
+}
+.ms-core-deltaSuiteLinks .ms-heroCommandLink {
+	color: rgb(0, 0, 0);
+}
+.ms-core-deltaSuiteLinks .ms-heroCommandLink:visited {
+	color: rgb(0, 0, 0);
+}
+.ms-core-deltaSuiteLinks .ms-heroCommandLink:hover {
+	color: rgb(255, 255, 255);
+}
+.ms-core-deltaSuiteLinks .ms-heroCommandLink:visited {
+	color: rgb(255, 255, 255);
+}
+.ms-core-deltaSuiteLinks .mdd-menuItemEdit .ms-navedit-editLinksText:hover > span > .ms-navedit-editLinksIconWrapper > .ms-navedit-editLinksIcon {
+	left: -181px; top: -192px;
+}
+.ms-core-deltaSuiteLinks .mdd-menuItemEdit .ms-navedit-editLinksIcon {
+	left: -181px; top: -192px;
+}
+.ms-core-deltaSuiteLinks .mdd-menuItemEdit .ms-navedit-editLinksText:hover {
+	color: rgb(255, 255, 255);
+}
+.ms-core-deltaSuiteLinks .mdd-menu .ms-list-addnew-img16 {
+	left: -233px; top: -120px;
+}
+.ms-core-deltaSuiteLinks .mdd-menu .mdd-menuItemInEdit {
+	margin-top: 5px;
+}
+.ms-core-deltaSuiteLinks :first-child.de-container {
+	float: left;
+}
+.ms-core-deltaSuiteLinks .mdd-menubar {
+	float: left;
+}
+.ms-core-deltaSuiteLinks .mdd-listpanel .de-container {
+	float: none;
+}
+.mdd-menuItem span.caret {
+	border-top-color: transparent !important; border-top-width: 0px !important; border-top-style: solid !important; display: none;
+}
+.mdd-section span.caret {
+	border-top-color: transparent !important; border-top-width: 0px !important; border-top-style: solid !important; display: none;
+}
+.mdd-section h1 {
+	margin: auto;
+}
+.mdd-rr.mdd-menubar .mdd-menuItem {
+	display: inline-block;
+}
+.navbar input {
+	line-height: inherit; font-family: inherit; font-size: inherit; font-weight: 400;
+}
+.navbar button {
+	line-height: inherit; font-family: inherit; font-size: inherit; font-weight: 400;
+}
+.navbar select {
+	line-height: inherit; font-family: inherit; font-size: inherit; font-weight: 400;
+}
+.navbar textarea {
+	line-height: inherit; font-family: inherit; font-size: inherit; font-weight: 400;
+}
+.navbar button {
+	font: inherit; color: inherit; text-transform: none; overflow: visible; font-size-adjust: inherit; font-stretch: inherit;
+}
+.container-fluid {
+	color: rgb(51, 51, 51); line-height: 1.4285; padding-right: 15px; padding-left: 15px; font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif; font-size: 1em; margin-right: auto; margin-left: auto;
+}
+.container-fluid * {
+	box-sizing: border-box;
+}
+.container > .navbar-header {
+	margin-right: -15px; margin-left: -15px;
+}
+.container-fluid > .navbar-header {
+	margin-right: -15px; margin-left: -15px;
+}
+.container > .navbar-collapse {
+	margin-right: -15px; margin-left: -15px;
+}
+.container-fluid > .navbar-collapse {
+	margin-right: -15px; margin-left: -15px;
+}
+.navbar-default .navbar-toggle {
+	border-color: rgb(221, 221, 221);
+}
+.navbar-collapse {
+	border-top-color: transparent; border-top-width: 1px; border-top-style: solid; -ms-overflow-x: visible; box-shadow: inset 0px 1px 0px rgba(255,255,255,0.1);
+}
+.navbar-collapse {
+	padding-right: 15px; padding-left: 15px;
+}
+.sr-only {
+	margin: -1px; padding: 0px; border: 0px currentColor; width: 1px; height: 1px; overflow: hidden; position: absolute; clip: rect(0px, 0px, 0px, 0px);
+}
+.sr-only-focusable:active {
+	margin: 0px; width: auto; height: auto; overflow: visible; position: static; clip: auto;
+}
+.sr-only-focusable:focus {
+	margin: 0px; width: auto; height: auto; overflow: visible; position: static; clip: auto;
+}
+[role='button'] {
+	cursor: pointer;
+}
+.clearfix::before {
+	display: table; content: " ";
+}
+.clearfix::after {
+	display: table; content: " ";
+}
+.dl-horizontal dd::before {
+	display: table; content: " ";
+}
+.dl-horizontal dd::after {
+	display: table; content: " ";
+}
+.container::before {
+	display: table; content: " ";
+}
+.container::after {
+	display: table; content: " ";
+}
+.container-fluid::before {
+	display: table; content: " ";
+}
+.container-fluid::after {
+	display: table; content: " ";
+}
+.row::before {
+	display: table; content: " ";
+}
+.row::after {
+	display: table; content: " ";
+}
+.form-horizontal .form-group::before {
+	display: table; content: " ";
+}
+.form-horizontal .form-group::after {
+	display: table; content: " ";
+}
+.btn-toolbar::before {
+	display: table; content: " ";
+}
+.btn-toolbar::after {
+	display: table; content: " ";
+}
+.btn-group-vertical > .btn-group::before {
+	display: table; content: " ";
+}
+.btn-group-vertical > .btn-group::after {
+	display: table; content: " ";
+}
+.nav::before {
+	display: table; content: " ";
+}
+.nav::after {
+	display: table; content: " ";
+}
+.navbar::before {
+	display: table; content: " ";
+}
+.navbar::after {
+	display: table; content: " ";
+}
+.navbar-header::before {
+	display: table; content: " ";
+}
+.navbar-header::after {
+	display: table; content: " ";
+}
+.navbar-collapse::before {
+	display: table; content: " ";
+}
+.navbar-collapse::after {
+	display: table; content: " ";
+}
+.pager::before {
+	display: table; content: " ";
+}
+.pager::after {
+	display: table; content: " ";
+}
+.panel-body::before {
+	display: table; content: " ";
+}
+.panel-body::after {
+	display: table; content: " ";
+}
+.modal-header::before {
+	display: table; content: " ";
+}
+.modal-header::after {
+	display: table; content: " ";
+}
+.modal-footer::before {
+	display: table; content: " ";
+}
+.modal-footer::after {
+	display: table; content: " ";
+}
+.clearfix::after {
+	clear: both;
+}
+.dl-horizontal dd::after {
+	clear: both;
+}
+.container::after {
+	clear: both;
+}
+.container-fluid::after {
+	clear: both;
+}
+.row::after {
+	clear: both;
+}
+.form-horizontal .form-group::after {
+	clear: both;
+}
+.btn-toolbar::after {
+	clear: both;
+}
+.btn-group-vertical > .btn-group::after {
+	clear: both;
+}
+.nav::after {
+	clear: both;
+}
+.navbar::after {
+	clear: both;
+}
+.navbar-header::after {
+	clear: both;
+}
+.navbar-collapse::after {
+	clear: both;
+}
+.pager::after {
+	clear: both;
+}
+.panel-body::after {
+	clear: both;
+}
+.modal-header::after {
+	clear: both;
+}
+.modal-footer::after {
+	clear: both;
+}
+.navbar-toggle {
+	padding: 9px 10px; border-radius: 4px; border: 1px solid transparent; margin-top: 8px; margin-right: 15px; margin-bottom: 8px; float: right; position: relative; background-image: none; background-color: transparent;
+}
+.navbar-toggle:focus {
+	outline: 0px;
+}
+.navbar-toggle .icon-bar {
+	border-radius: 1px; width: 22px; height: 2px; display: block;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: rgb(136, 136, 136);
+}
+.navbar-toggle .icon-bar + .icon-bar {
+	margin-top: 4px;
+}
+.navbar .container {
+	padding: 0px;
+}
+.mdd-listpanel {
+	box-sizing: content-box;
+}
+.mdd-listpanel ul {
+	box-sizing: content-box;
+}
+.mdd-listpanel ul li {
+	box-sizing: content-box;
+}
+.mdd-listpanel ul li .panel-title {
+	box-sizing: content-box;
+}
+.mdd-listpanel ul li {
+	
+}
+@media all and (min-width:768px)
+{
+.navbar-toggle {
+	display: none;
+}
+}
+.navbar button {
+	cursor: pointer;
+}
+.navbar input[type='button'] {
+	cursor: pointer;
+}
+.navbar button[disabled] {
+	cursor: default;
+}
+.navbar input[disabled] {
+	cursor: default;
+}
+.navbar button.navbar-toggle {
+	min-width: 30px;
+}
+.container.navigation {
+	padding: 0px;
+}
+.in.nav .mdd-rr.mdd-menubar .mdd-rr.mdd-menuItem .mdd-section ul {
+	display: none;
+}
+#topnfavbar .nav .mdd-rr.mdd-menubar .mdd-rr.mdd-menuItem ul {
+	padding-left: 5px;
+}
+.in.navbar-collapse {
+	-ms-overflow-y: hidden;
+}
+.navbar .mdd-rr.mdd-menubar h1 {
+	font-weight: 600;
+}
+#MDDSuiteMenu {
+	display: none;
+}
+.o365cs-nav-header16 .mdd-menu {
+	text-align: left; display: inline-block;
+}
+.o365cs-nav-header16 .mdd-menubar {
+	font-size: 13px; z-index: 2002;
+}
+.o365cs-nav-header16 .mdd-menubar .mdd-menuItem {
+	line-height: 30px; font-size: 13px;
+}
+.o365cs-nav-header16 .mdd-menubar .mdd-menuTitle {
+	line-height: 46px; font-size: 16px;
+}
+.o365cs-nav-header16 .mdd-menu {
+	color: rgb(255, 255, 255); text-decoration: none;
+}
+.o365cs-nav-header16 .current a.mdd-menuLink:link {
+	color: rgb(255, 255, 255); text-decoration: none;
+}
+.o365cs-nav-header16 .current a.mdd-menuLink:visited {
+	color: rgb(255, 255, 255); text-decoration: none;
+}
+.o365cs-nav-header16 .current a.mdd-menuLink:active {
+	color: rgb(255, 255, 255); text-decoration: none;
+}
+.o365cs-nav-header16 .current a.mdd-menuLink:hover {
+	color: rgb(255, 255, 255); text-decoration: none;
+}
+.o365cs-nav-header16 a.mdd-menuLink:visited {
+	color: rgb(255, 255, 255);
+}
+.o365cs-nav-header16 a.mdd-menuLink:link {
+	color: rgb(255, 255, 255);
+}
+.o365cs-nav-header16 a.mdd-menuLink:active {
+	color: rgb(255, 255, 255);
+}
+.o365cs-nav-header16 .ms-navedit-editLinksText > span > .ms-metadata {
+	color: rgb(255, 255, 255);
+}
+.o365cs-nav-header16 .ms-core-listMenuEdit > tr > .ms-navedit-linkCell > .ms-core-listMenu-item {
+	color: rgb(255, 255, 255);
+}
+.o365cs-nav-header16 .ms-navedit-addLinkText {
+	color: rgb(255, 255, 255);
+}
+.o365cs-nav-header16 .mdd-drop {
+	line-height: normal; border-top-width: 0px;
+}
+.o365cs-nav-header16 .ms-navedit-editSpanMDD {
+	margin-top: 15px; display: inline-block;
+}
+@media all and (max-width:768px)
+{
+.mdd-rr.mdd-menubar .mdd-menuItem {
+	display: none;
+}
+.navbar-toggle {
+	display: block;
+}
+}
+.inr.navbar-default {
+	background-color: rgb(248, 248, 248);
+}
+.in.navbar {
+	border: 1px solid transparent; margin-bottom: 0px; position: relative; min-height: 50px;
+}
+.container-fluid * {
+	box-sizing: border-box;
+}
+.in.mdd-rr.mdd-menubar h1.mddhide {
+	display: inline-block;
+}
+.in.mdd-rr.mdd-menubar h1.h1desc {
+	display: block;
+}
+.in.mdd-rr.mdd-menubar {
+	width: auto; height: 100%; float: none;
+}
+.in.mdd-rr.mdd-menubar .mdd-ctrl {
+	width: auto; height: 100%; float: none;
+}
+.inr.navbar-default .mdd-rr.mdd-menubar {
+	display: none;
+}
+.inr.navbar-default .mdd-rr.mdd-menubar .mdd-menuItem {
+	display: none;
+}
+.in.mdd-rr.mdd-menubar {
+	left: 0px; margin-bottom: -7.5px; display: none; position: relative;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-menuItem {
+	border-width: 0px 0px 1px; border-style: none none solid; border-color: currentColor currentColor rgba(0, 0, 0, 0.075); padding-right: 0px; float: none; display: block;
+}
+.in.mdd-rr.mdd-menubar .last.mdd-rr.mdd-menuItem {
+	border-bottom-color: transparent;
+}
+.in.mdd-rr.mdd-menubar .current.mdd-rr.mdd-menuItem .mdd-menuTitle {
+	background-color: rgb(231, 231, 231);
+}
+.in.mdd-rr.mdd-menubar .mddopen.mdd-rr.mdd-menuItem .mdd-menuTitle {
+	background-color: rgb(231, 231, 231);
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-menuItem .mdd-menuTitle {
+	padding-left: 10px;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-menuItem a.mdd-menuLink:hover {
+	color: rgb(0, 114, 198); text-decoration: none;
+}
+.in.mdd-rr.mdd-menubar .ul.mdd-menu {
+	margin: 7.5px -15px;
+}
+.in.in.mdd-rr.mdd-menubar {
+	display: block;
+}
+.in.mdd-rr.mdd-menubar .mdd-menu {
+	list-style: none; margin: 7.5px -15px; padding: 0px; width: auto; float: none; display: block;
+}
+.hasdrop.in.mdd-rr.mdd-menuItem .mdd-menuTitle {
+	background: no-repeat 98% 50%;
+}
+.in.mdd-rr.mdd-menubar .mdd-menuTitle {
+	float: none;
+}
+.in.mdd-rr.mdd-menubar .mddopen.mdd-rr.mdd-menuItem .menuTitle {
+	color: rgb(85, 85, 85);
+}
+.in.mdd-rr.mdd-menubar .mdd-drop {
+	border: 0px currentColor; top: auto; padding-left: 12px; margin-right: 15px; position: relative; box-shadow: none; background-color: transparent;
+}
+.in.mdd-rr.mdd-menubar .mdd-drop > .mdd-link.mdd-ctrl {
+	padding-top: 10px; padding-bottom: 10px;
+}
+.in.mdd-rr.mdd-menubar .mdd-drop .mdd-section {
+	width: 100%; height: auto; float: none;
+}
+.in.mdd-rr.mdd-menubar .mdd-drop .mdd-section .mdd-headingTitle {
+	margin: 10px 0px;
+}
+.in.mdd-rr.mdd-menubar .mdd-drop ul {
+	padding-left: 10px; list-style-type: none;
+}
+.in.mdd-rr.mdd-menubar .mdd-section ul {
+	display: none;
+}
+.in.mdd-rr.mdd-menubar .mdd-section ul {
+	display: none;
+}
+.in.mdd-rr.mdd-menubar .mdd-section ul li a {
+	height: 30px; display: block;
+}
+.in.mdd-rr.mdd-menubar .mdd-section ul li a.ldesc {
+	height: auto;
+}
+.in.mdd-rr.mdd-menubar .mdd-section ul li a.limg {
+	height: auto;
+}
+.in.mdd-rr.mdd-menubar .mdd-contentsearch ul {
+	display: block;
+}
+.in.mdd-rr.mdd-menubar .mdd-headingTitle {
+	width: 100%; display: inline-block;
+}
+.in.mdd-rr.mdd-menubar .mdd-headingItem:hover {
+	color: rgb(0, 114, 198); text-decoration: none;
+}
+.in.mdd-rr.mdd-menubar a.mdd-headingTitle:focus {
+	outline-style: none;
+}
+.in.mdd-rr.mdd-menubar h1.mdd-headingItem {
+	height: 25px; padding-top: 5px; font-weight: 400; margin-top: 0px; display: inline-block;
+}
+.in.mdd-rr.mdd-menubar h1.h1desc.mdd-headingItem {
+	display: block;
+}
+.in.mdd-rr.mdd-menubar .opn.mdd-section {
+	border-bottom-color: rgba(0, 0, 0, 0.075); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.mdd-section.mdd-heading.in.mdd-rr.mdd-menubar ul li.mdd-norr {
+	display: none;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-menuItem .mdd-menuTitle {
+	cursor: pointer;
+}
+.in.mdd-rr.mdd-menubar .mdd-menuItemEdit {
+	display: none;
+}
+.in.mdd-rr.mdd-menubar .ms-srch-sb {
+	display: block;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-searchcontrol {
+	padding-bottom: 5px;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-searchcontrol h1 {
+	color: rgb(85, 85, 85);
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-listheading a.ldesc {
+	padding-bottom: 10px;
+}
+.rrh.mdd-ctrl {
+	display: none;
+}
+.inr.navbar-default .navbar-collapse {
+	border-color: rgb(231, 231, 231);
+}
+.navbar > .container .navbar-brand {
+	margin-left: -15px;
+}
+.navbar > .container-fluid .navbar-brand {
+	margin-left: -15px;
+}
+.navbar h1 {
+	color: inherit; line-height: 1.1; font-family: inherit; font-weight: 400;
+}
+.navbar h2 {
+	color: inherit; line-height: 1.1; font-family: inherit; font-weight: 400;
+}
+.navbar h3 {
+	color: inherit; line-height: 1.1; font-family: inherit; font-weight: 400;
+}
+.navbar h4 {
+	color: inherit; line-height: 1.1; font-family: inherit; font-weight: 400;
+}
+.navbar h5 {
+	color: inherit; line-height: 1.1; font-family: inherit; font-weight: 400;
+}
+.navbar h6 {
+	color: inherit; line-height: 1.1; font-family: inherit; font-weight: 400;
+}
+.navbar .h1 {
+	color: inherit; line-height: 1.1; font-family: inherit; font-weight: 400;
+}
+.navbar .h2 {
+	color: inherit; line-height: 1.1; font-family: inherit; font-weight: 400;
+}
+.navbar .h3 {
+	color: inherit; line-height: 1.1; font-family: inherit; font-weight: 400;
+}
+.navbar .h4 {
+	color: inherit; line-height: 1.1; font-family: inherit; font-weight: 400;
+}
+.navbar .h5 {
+	color: inherit; line-height: 1.1; font-family: inherit; font-weight: 400;
+}
+.navbar .h6 {
+	color: inherit; line-height: 1.1; font-family: inherit; font-weight: 400;
+}
+.in.mdd-rr.mdd-menubar span.caret {
+	background: url("/_layouts/15/archetonomy/mdd/images/ct_dn.png") no-repeat 0px 0px; width: 20px; height: 20px; float: right; display: inline-block;
+}
+.in.mdd-rr.mdd-menubar span.opn.caret {
+	background: url("/_layouts/15/archetonomy/mdd/images/ct_up.png") no-repeat 0px 0px;
+}
+.in.mdd-rr.mdd-menubar .mddopen.mdd-rr.mdd-menuItem .mdd-menuTitle span.caret {
+	background: url("/_layouts/15/archetonomy/mdd/images/ct_up.png") no-repeat 0px 0px;
+}
+.in.mdd-rr.mdd-menubar .opn.mdd-section .caret {
+	display: inline-block;
+}
+.in.mdd-rr.mdd-menubar .mdd-section span.caret {
+	display: inline-block;
+}
+.in.mdd-rr.mdd-menubar .mdd-section ul.opn {
+	display: block;
+}
+.in.mdd-rr.mdd-menubar span.mdd-headingTitle {
+	cursor: pointer;
+}
+.in.mdd-rr.mdd-menubar .mdd-section ul li .item-image a {
+	height: auto;
+}
+.in.mdd-rr.mdd-menubar .mdd-drop .mdd-link {
+	margin: 10px 0px 10px 2px;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-videocontrol h1.mdd-headingItem {
+	display: block;
+}
+.in.mdd-rr.mdd-menubar .searchbox {
+	float: none;
+}
+#searchInputBox {
+	float: none;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-listpanel {
+	display: block;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-listpanel .mdd-rr.panel-item {
+	cursor: pointer;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-listpanel ul {
+	padding-left: 0px; list-style-type: none;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-listpanel .panel-items {
+	border: 0px currentColor; width: 100%; box-sizing: content-box; background-color: transparent;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-listpanel .mdd-rr.panel-item .panel-content {
+	border: 0px currentColor; display: none; position: relative;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-listpanel .opn.mdd-rr.panel-item .panel-content {
+	width: 100%; height: 100%; padding-left: 5px; border-bottom-color: rgba(0, 0, 0, 0.075); border-bottom-width: 1px; border-bottom-style: solid; display: block; background-color: transparent;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-listpanel .mdd-rr.panel-item .panel-title {
+	margin: 10px 0px 0px; height: 25px; padding-left: 0px; font-size: 13px;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-listpanel .mdd-rr.panel-item .panel-link {
+	height: 25px;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-listpanel .mdd-rr.panel-item {
+	color: rgb(85, 85, 85); text-decoration: none;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-listpanel .active.mdd-rr.panel-item {
+	cursor: pointer; background-color: transparent;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-image h1.mdd-headingItem {
+	display: block;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-image h1.mddHide.mdd-headingItem {
+	display: none;
+}
+.in.mdd-rr.mdd-menubar .mdd-rr.mdd-listpanel .panel-content ul {
+	padding-left: 10px; list-style-type: none;
+}
+.mdd-menubar .mdd-menuTitle {
+	cursor: pointer;
+}
+.mdd-menubar .mdd-drop {
+	border: 2px solid rgb(7, 4, 35);
+}
+.mdd-menubar .mdd-drop ul {
+	margin-left: 0px; background-color: rgb(61, 61, 61);
+}
+.mdd-menubar .mdd-drop li.panel-item .panel-title {
+	line-height: 1rem;
+}
+.blg-megamenu-link a.mdd-linkItem {
+	color: rgb(255, 255, 255) !important;
+}
+.mdd-contentsearch.blg-megamenu-newslink a {
+	color: rgb(37, 80, 148) !important; line-height: 1.1em;
+}
+.mdd-menubar .mdd-drop ul {
+	line-height: 1em !important;
+}
+.mdd-section ul {
+	margin-top: 10px;
+}
+.mdd-section li {
+	padding: 6px 0px;
+}
+.mdd-listheading.blg-megamenu-listheading1 {
+	background-color: rgb(61, 61, 61);
+}
+.mdd-listheading.blg-megamenu-listheading1 div.mdd-section {
+	width: 100%; height: 40px; padding-left: 12px; margin-bottom: 8px; background-color: rgb(41, 80, 119);
+}
+.mdd-listheading.blg-megamenu-listheading1 div.mdd-section:hover {
+	background-color: rgb(161, 180, 197);
+}
+.mdd-listheading.blg-megamenu-listheading1 a.mdd-linkItem:visited {
+	color: rgb(255, 255, 255);
+}
+.mdd-listheading.blg-megamenu-listheading1 a.mdd-linkItem h1.mdd-headingItem {
+	color: rgb(255, 255, 255); line-height: 40px;
+}
+.mdd-listheading.blg-megamenu-listheading3 {
+	background-color: rgb(61, 61, 61);
+}
+.mdd-listheading.blg-megamenu-listheading3 div.mdd-section {
+	width: 30%; height: 40px; padding-left: 12px; margin-bottom: 8px; margin-left: 21px; background-color: rgb(41, 80, 119);
+}
+.mdd-listheading.blg-megamenu-listheading3 div.mdd-section:hover {
+	background-color: rgb(161, 180, 197);
+}
+.mdd-listheading.blg-megamenu-listheading3 a.mdd-linkItem:visited {
+	color: rgb(255, 255, 255);
+}
+.mdd-listheading.blg-megamenu-listheading3 a.mdd-linkItem h1.mdd-headingItem {
+	color: rgb(255, 255, 255); line-height: 40px;
+}
+.mdd-listheading.blg-megamenu-listheading-alpha {
+	background-color: rgb(61, 61, 61);
+}
+.mdd-listheading.blg-megamenu-listheading-alpha div.mdd-section {
+	width: 45px; height: 40px; text-align: center; margin-bottom: 8px; margin-left: 8px; background-color: rgb(164, 164, 164);
+}
+.mdd-listheading.blg-megamenu-listheading-alpha a.mdd-linkItem:visited {
+	color: rgb(41, 80, 119);
+}
+.mdd-listheading.blg-megamenu-listheading-alpha a.mdd-linkItem h1.mdd-headingItem {
+	color: rgb(41, 80, 119); line-height: 40px; font-weight: bold;
+}
+.mdd-listpanel.blg-megamenu-listpanel {
+	background-color: rgb(61, 61, 61);
+}
+.mdd-listpanel.blg-megamenu-listpanel ul.panel-items {
+	border: 0px currentColor; width: 31%; padding-right: 66% !important; background-color: rgb(61, 61, 61) !important;
+}
+.mdd-listpanel.blg-megamenu-listpanel .mdd-linkItem {
+	line-height: 40px; font-weight: bold;
+}
+.panel-item.blg-megamenu-listpanel-item > .panel-content {
+	left: 31% !important; width: 66% !important; margin-left: 15px; background-color: rgb(233, 237, 242);
+}
+.panel-item.blg-megamenu-listpanel-item .panel-title {
+	color: rgb(255, 255, 255); background-color: rgb(41, 80, 119);
+}
+.active.panel-item.blg-megamenu-listpanel-item .panel-title {
+	border-right-color: rgb(172, 137, 47); border-right-width: 6px; border-right-style: solid; background-color: rgb(161, 180, 197);
+}
+li.panel-item.blg-megamenu-listpanel-item {
+	margin-bottom: 8px;
+}
+.panel-item.blg-megamenu-listpanel-item .panel-title a.active.mdd-linkItem {
+	color: rgb(41, 80, 119) !important; font-size: 13px !important;
+}
+.panel-item.blg-megamenu-listpanel-item .panel-title a.mdd-linkItem {
+	color: rgb(255, 255, 255); font-size: 13px !important;
+}
+.mdd-menubar .mdd-drop {
+	border-width: 0px 0px 4px; border-style: none none solid; border-color: currentColor currentColor rgb(164, 164, 164); background-color: rgb(61, 61, 61);
+}
+.mdd-contentsearch.blg-megamenu-contentsearch ul {
+	background-color: transparent !important;
+}
+.mdd-contentsearch.blg-megamenu-contentsearch ul li {
+	width: 45%; margin-left: 21px; float: left;
+}
+.mdd-contentsearch.blg-megamenu-contentsearch ul li .mdd-linkItem {
+	color: rgb(164, 164, 164) !important; line-height: inherit; font-weight: normal;
+}
+.mdd-link.blg-megamenu-link a.mdd-linkItem {
+	color: rgb(61, 61, 61) !important;
+}

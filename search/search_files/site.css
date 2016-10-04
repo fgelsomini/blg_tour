@@ -1,0 +1,30 @@
+﻿
+/*On phonebook level*/
+.PB-ShowForEnglish{
+    display:inline-block;
+    width:100%;
+}
+.PB-HideForEnglish{
+    display:none;
+    width:100%;
+}
+
+#refineCaptionEn, #refineCaptionFr {
+    color: #0B2265;
+    font-size: 12pt;
+    font-weight: 600;
+    padding-left: .4em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#refineClearLink
+{
+    margin:0 7px 0 7px;
+}
+
+#refineClearLink a
+{
+    color: #999999;
+    font-size:10pt;
+    text-decoration:none;
+}
